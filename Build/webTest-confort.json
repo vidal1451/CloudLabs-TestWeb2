@@ -1,0 +1,13 @@
+{
+"companyName": "CloudLabs",
+"productName": "CloudLabs - Sistemas de confort",
+"dataUrl": "webTest-confort.data.unityweb",
+"wasmCodeUrl": "webTest-confort.wasm.code.unityweb",
+"wasmFrameworkUrl": "webTest-confort.wasm.framework.unityweb",
+"TOTAL_MEMORY": 2130706432,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000",
+"cacheControl": {"default": "must-revalidate"}
+}
